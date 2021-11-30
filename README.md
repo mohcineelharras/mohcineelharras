@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**mohcineelharras/mohcineelharras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I have graduated this year as a general engineer from CentraleSupélec
+- 🔭 I’m currently working at EDF R&D
+- 🌱 I’m currently learning NLP and new algorithms of Computer vision
+- 👯 I’m looking to collaborate on kaggle competitions
+- 🤔 I’m looking for help with survival analysis fondamentals
+- 💬 Ask me about Crypto currencies
+- 📫 How to reach me: mohcineelharras@hotmail.com
+- 😄 Pronouns: mrxdey
+- ⚡ Fun fact: I didn't specialize in data science at school. I just got 2 courses of ML during my curriculum. Yet, I am determined to make my way in this field.
+
