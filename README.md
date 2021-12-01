@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I have graduated this year as a general engineer from CentraleSupélec
+- 📚 I graduated in 2021 as a general engineer from CentraleSupélec
 - 🔭 I’m currently working at EDF R&D
 - 🌱 I’m currently learning NLP and new algorithms of Computer vision
 - 👯 I’m looking to collaborate on kaggle competitions
