@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mohcine EL HARRAS</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
-- 🔭 I’m currently working on **Digital twin**
+- 🔭 I’m currently working as a Freelancer
 
 - 🌱 I’m currently learning **AWS, Airflow**
 
