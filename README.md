@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mohcine EL HARRAS</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **AWS, Airflow**
 
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://mohcineelharras.github.io](https://mohcineelharras.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mohcineelharras.github.io). All my demos are in [Demo](https://huggingface.co/mohcineelharras)
 
 - 💬 Ask me about **Python, Data Science, Computer vision, NLP**
 
