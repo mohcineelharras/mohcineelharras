@@ -3,6 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Mohcine EL HARRAS</h1>
 <h3 align="center">A passionate Data scientist</h3>
+<div align="center">
+    <h3>
+        <a href="https://huggingface.co/mohcineelharras" target="_blank">A passionate Data Scientist on Hugging Face</a>
+    </h3>
+</div>
 
 - 🔭 I’m currently working as a **Freelancer**
 
