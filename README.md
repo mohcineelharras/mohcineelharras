@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Data scientist</h3>
 <div align="center">
     <h3>
-        <a href="https://huggingface.co/mohcineelharras" target="_blank">A passionate Data Scientist on Hugging Face</a>
+        <a href="https://huggingface.co/mohcineelharras" target="_blank">Hugging Face spaces</a>
     </h3>
 </div>
 
